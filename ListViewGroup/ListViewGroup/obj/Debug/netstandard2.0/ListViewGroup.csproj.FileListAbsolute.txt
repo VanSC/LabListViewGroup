@@ -1,0 +1,15 @@
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\bin\Debug\netstandard2.0\ListViewGroup.deps.json
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\bin\Debug\netstandard2.0\ListViewGroup.dll
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\bin\Debug\netstandard2.0\ref\ListViewGroup.dll
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\bin\Debug\netstandard2.0\ListViewGroup.pdb
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\ListViewGroup.csproj.AssemblyReference.cache
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\ListViewGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\ListViewGroup.AssemblyInfoInputs.cache
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\ListViewGroup.AssemblyInfo.cs
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\ListViewGroup.csproj.CoreCompileInputs.cache
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\ListViewGroup.dll
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\refint\ListViewGroup.dll
+C:\Users\Vane\source\repos\ListViewGroup\ListViewGroup\ListViewGroup\obj\Debug\netstandard2.0\ListViewGroup.pdb
